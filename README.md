@@ -75,6 +75,7 @@ To run a narrower experiment, edit the corresponding script in `scripts/paper/`.
 
 ## Citation
 
+```bibtex
 @inproceedings{vazhentsev2026efficient,
   title = {Efficient Hallucination Detection for {LLM}s Using Uncertainty-Aware Attention Heads},
   author = {Vazhentsev, Artem and Rvanova, Lyudmila and Kuzmin, Gleb and Fadeeva, Ekaterina and Lazichny, Ivan and Panchenko, Alexander and Panov, Maxim and Sachan, Mrinmaya and Nakov, Preslav and Baldwin, Timothy and Shelmanov, Artem},
@@ -83,3 +84,4 @@ To run a narrower experiment, edit the corresponding script in `scripts/paper/`.
   address = {Seoul, South Korea},
   url = {https://arxiv.org/abs/2505.20045},
 }
+```
