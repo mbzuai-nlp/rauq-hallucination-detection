@@ -1,0 +1,7 @@
+absl-py
+captum
+catboost
+pytz
+torchvision
+unbabel-comet<3
+lm-polygraph @ git+https://github.com/ArtemVazh/lm-polygraph.git@main
